@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Musab-adam/Blog-Preview-Card
+- Live Site URL: https://www.frontendmentor.io/solutions/blog-preview-card-by-using-html-css-Wui3IccV7Z
 
 ## My process
 
